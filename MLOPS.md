@@ -27,7 +27,7 @@ Traditionally all the above stages are done manually;
 
 MLOPS implements Devops Principles,Devops tools and practices into machine learning workflow
 Both the deployment and training phase will Automated with CI/CD
-
+MLOPS is all  practices that is seamless handoff between Data Scientist and ML engineer
 
 
 ## Goal of MLOPS
@@ -46,7 +46,5 @@ Both the deployment and training phase will Automated with CI/CD
 - Enable automatic audit rails creation for all artifacts.
 
 
-MLOPS is all  practices that is seamless handoff between Data Scientist and ML engineer
 
 
-D
