@@ -25,6 +25,8 @@ EDA ::- Exploratory Data Analysis , More like getting data from SQL, different t
 
 Traditionally all the above stages are done manually;
 
+MLOps, a fusion of “machine learning” and “operations,” refers to the set of practices and processes aimed at streamlining the development, deployment, and maintenance of machine learning models in production environments
+
 MLOPS implements Devops Principles,Devops tools and practices into machine learning workflow
 Both the deployment and training phase will Automated with CI/CD
 MLOPS is all  practices that is seamless handoff between Data Scientist and ML engineer
