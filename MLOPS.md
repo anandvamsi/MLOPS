@@ -31,6 +31,7 @@ MLOPS implements Devops Principles,Devops tools and practices into machine learn
 Both the deployment and training phase will Automated with CI/CD
 MLOPS is all  practices that is seamless handoff between Data Scientist and ML engineer
 
+Teams collabrate to build,automate,etst and monitor the machine learning pipelines more like Devops Project.
 
 ## Goal of MLOPS
 - Faster Experimentation and model deployment
