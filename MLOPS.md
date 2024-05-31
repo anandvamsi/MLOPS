@@ -49,5 +49,8 @@ Teams collabrate to build,automate,etst and monitor the machine learning pipelin
 - Enable automatic audit rails creation for all artifacts.
 
 
+## what is Experimentatin
+
+In the context of MLOps (Machine Learning Operations), experimentation refers to the process of conducting controlled tests or trials to evaluate different machine learning models, algorithms, hyperparameters, feature engineering techniques, and data preprocessing methods. The goal of experimentation is to iteratively improve the performance and effectiveness of machine learning models by systematically testing hypotheses and exploring various configurations.
 
 
