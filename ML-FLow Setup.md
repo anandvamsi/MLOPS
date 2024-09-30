@@ -27,3 +27,10 @@ mlflow --version
 mlflow ui ::- This will open in the port 5000
 ```
 
+
+### Some information 
+```bash 
+regression metrics----> R2_score,MAE MSE and RMSE
+classification metrics-----> accuracy_scrore, Precision, recall, f1
+````
+
