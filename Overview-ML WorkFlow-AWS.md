@@ -17,3 +17,12 @@ The following table guides you on the common problem types for which AWS provide
 
 ## Custom case
 If the ML problem needs a custom solution, that is, if it cannot be addressed by a common solution discussed earlier, we will have to execute the steps in the ML workflow, starting with data preparation and followed by model training, deployment and optionally, monitoring. That is why our ML workflow is grouped into three major areas: data preparation, model training and model monitoring
+
+## Introduction of ML on AWS
+ Amazon SageMaker is the main service that encompasses the middle layer with purpose-built features that address every step of the ML workflow .
+ Amazon SageMaker is a fully managed, secure, scalable and reliable service for all kinds of ML needs.
+
+## WorkFlow to select the common ML/Sagemaker.
+<img src="sagemakerNeed.png" width="600">
+
+ 
