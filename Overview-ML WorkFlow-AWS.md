@@ -14,3 +14,6 @@ Once there is a clear need and we have adequately understood the problem, we mus
 The following table guides you on the common problem types for which AWS provides pre-trained ML models called AWS AI services by means of an API that you can easily include in your application without having to worry about model training. 
 
 <img src="AI-usecases.png" width="600">
+
+## Custom case
+If the ML problem needs a custom solution, that is, if it cannot be addressed by a common solution discussed earlier, we will have to execute the steps in the ML workflow, starting with data preparation and followed by model training, deployment and optionally, monitoring. That is why our ML workflow is grouped into three major areas: data preparation, model training and model monitoring
