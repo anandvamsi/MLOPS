@@ -6,7 +6,7 @@ In designing the AI model, most time is consumed on cleaning the data, Here is t
 
 
 ## What is feature engineering
-Process of extracting useful features from raw data using maths,stats and domain knowledge.
+It is the process of selecting,extracting and transforming most relevant features from the available data to build more accurate and efficent machine learning models
 
 ## Basic examples of Feature engineering
 - Outlier Detection
