@@ -9,9 +9,15 @@ There are many innovating methods of derving the new features like binning conti
 
 ## What is feature engineering
 It is the process of selecting,extracting and transforming most relevant features from the available data to build more accurate and efficent machine learning models
+They key is that we need to
+
 
 
 ## Basic examples of Feature engineering
+- Extracing day of the week from the timestamp ::- This can helps to findout the seonsal trips
+- Extracting the hour from the timestam ::- can help hourly hits on the day
+- From the Birthday, calculating the age  ::- helps in selling the products active predective targets
+  
 - Outlier Detection
 - one hot encoding
 - handling missing data
