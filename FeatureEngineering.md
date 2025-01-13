@@ -19,5 +19,5 @@ They key is that we need to
 - From the Birthday, calculating the age  ::- helps in selling the products active predective targets
   
 - Outlier Detection
-- one hot encoding
-- handling missing data
+- One hot encoding
+- Handling missing data
