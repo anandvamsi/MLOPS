@@ -27,6 +27,20 @@ Traditionally all the above stages are done manually;
 
 MLOps, a fusion of “machine learning” and “operations,” refers to the set of practices and processes aimed at streamlining the development, deployment, and maintenance of machine learning models in production environments
 
+Another ways is , MLOPS is a set of standard processes and capabilites  for building,deploying and operationlizing ML system ```rapidly``` and ```reliably```.
+
+### Non-generative AI = Predictive AI
+Predictive AI refers to a type of artificial intelligence that focuses on performing specific tasks or solving specific problems.
+```It doesn't have the ability to create new content or generates original ideas.```
+Instead, it relies on preexisting data and algorithms to make predictions like classification/decision
+For example, regression, classification, object detection, or forecasting tasks can be listed as predictive A.I. tasks Within the AI
+
+
+### Generative AI
+Creating new and original content such as text, images or music by learning from patterns in existing data.
+
+
+
 MLOPS implements Devops Principles,Devops tools and practices into machine learning workflow
 Both the deployment and training phase will Automated with CI/CD
 MLOPS is all  practices that is seamless handoff between Data Scientist and ML engineer
