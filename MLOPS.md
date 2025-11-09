@@ -1,6 +1,6 @@
 # MLOPS
 - why do we need  MLOPS
--  what is MLOPS
+-  what is MLOPS, what is predictive AI and generative AI
 - Goal of MLOPS
 
 EDA ::- Exploratory Data Analysis , More like getting data from SQL, different teams
@@ -62,6 +62,8 @@ Teams collabrate to build,automate,etst and monitor the machine learning pipelin
 - Monitor data drift and utilize the insights to retrain the model
 - Enable automatic audit rails creation for all artifacts.
 
+# MLOPS for GenAI
+A set of practices,techiniques and technologies that expland MLOPS for operationalizing generative AI applications
 
 ## what is Experimentatin
 
